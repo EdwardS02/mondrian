@@ -1,0 +1,4 @@
+- Recreated a Mondrian Painting originally auctioned for $50.6m using CSS Grid.
+- Worked in a team to break down all the dimensions in the grid ensuring a realistic to-scale version of the painting.
+- Established a pixel-perfect approach with measured colors.
+- Implemented the use of CSS Flexbox to center the items for a better user experience.
