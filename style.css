@@ -3,9 +3,16 @@
     grid-template-columns: 320px 198px 153px 50px;
     grid-template-rows: 414px 130px 155px 20px;
     gap: 9px;
-    height: 748px;
+    height: 746px;
     width: 748px;
     background-color: #000;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .grid-square {
